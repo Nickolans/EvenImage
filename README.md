@@ -18,5 +18,5 @@ The following three generated images are the same size although the starting ima
 ### Image 2
 ![9B5822B4-B71C-49E1-A4DD-C597369CB905](https://github.com/Nickolans/EvenImage/assets/23033783/8529877a-4fec-477b-b156-cd283cbcb2b9)
 
-### image 3
+### Image 3
 ![B6785884-50BA-43AC-AE6F-C300AA70E93A](https://github.com/Nickolans/EvenImage/assets/23033783/7606a9c7-ee6f-42f1-a916-ad0141b58af2)
