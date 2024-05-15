@@ -1,5 +1,5 @@
 # Even Image
-A Swift-based command-line tool that transforms initially non-uniform images into uniformly-sized ones through the application of spacing, centering, and scaling. This project utilizes the Core Graphics framework for image rendering and manipulation via Quartz.
+A Swift-based command-line tool that transforms initially non-uniform images into uniformly-sized ones through the application of spacing, centering, and scaling. This project utilizes the Core Graphics framework for image rendering and manipulation.
 
 ## Examples
 The following three generated images are the same size although the starting images are not.
