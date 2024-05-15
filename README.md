@@ -6,14 +6,16 @@ A Swift-based command-line tool that transforms initially non-uniform images int
 
 ## Usage
 
-Example running the script with a local image `t1.png` that outputs to the `test-results` directory.
+The following will generate an image of size 2000x1000 that will act as the container for the image `t1.png`. The generated image is saved in the `test-results` directory.
 
 ```sh
 swift run EvenImage ./t1.png test-results/ --height 1000 --width 2000
 ```
 
 ## Examples
-The following three generated images are the same size although the starting images are not.
+The following are three generated images. The input images are placed on a gray background. The input image scales to fit the given size (in this case, 2000x1000). 
+
+Since Image 1 is wide, it will scale to fit the width of the 2000x1000 container while leaving space on the top and bottom. Since Image 2 is tall, it will scale to fit the height of the 2000x1000 container while leaving space to the left and right.
 
 ### Image 1
 ![4F7FA752-0608-4FB8-AA81-193B3BD3CBA9](https://github.com/Nickolans/EvenImage/assets/23033783/bdf34452-2d56-4872-a841-a441993bfb1c)
