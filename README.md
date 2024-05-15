@@ -1,6 +1,9 @@
 # Even Image
 A Swift-based command-line tool that transforms initially non-uniform images into uniformly-sized ones through the application of spacing, centering, and scaling. This project utilizes the Core Graphics framework for image rendering and manipulation.
 
+> [!NOTE]
+> This project is currently in the works, and updates are ongoing.
+
 ## Usage
 
 Example running the script with a local image `t1.png` that outputs to the `test-results` directory.
